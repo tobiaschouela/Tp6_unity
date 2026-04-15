@@ -10,7 +10,7 @@ public class SaludoUIManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        txtSaludo.gameObject.SetActive(false);
+        txt_saludo.gameObject.SetActive(false);
     }
 
     // Update is called once per frame
